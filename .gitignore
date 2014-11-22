@@ -1,4 +1,5 @@
 advanced-concurrency-patterns-go
+.DS_Store
 
 # FROM: https://raw.githubusercontent.com/github/gitignore/master/Go.gitignore
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
